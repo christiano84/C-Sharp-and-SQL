@@ -1,5 +1,5 @@
 # C-and-SQL
-SQL tutorial finished and C# started. I have 1 year of professional experience using C# and .NET and am getting re-familiarized / acquainted with the language after having been away from it for some time.
+SQL tutorial finished and C# started. I have 1 year of professional experience using C# and .NET and am getting re-familiarized / acquainted with the language after having been away from it.
 
 This half of the SQL tutorial covered triggers, unions, join, nested queries, wildcards and sum/average among other topics.
 
